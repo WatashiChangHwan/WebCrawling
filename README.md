@@ -5,3 +5,6 @@
 * 폴더 단위 기준으로 py 폴더, data 폴더로 나뉩니다.
 * data : data 파일
 * python_code : crawling 할 때 쓰는 파이썬 코드를 말합니다.
+
+### 마크다운 참조
+* https://gist.github.com/ihoneymon/652be052a0727ad59601
